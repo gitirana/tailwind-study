@@ -16,7 +16,14 @@ const config: Config = {
       maxWidth: {
         app: '700px',
       },
-      colors: {},
+      colors: {
+        violet: {
+          25: '#fcfaff',
+        },
+      },
+      borderWidth: {
+        6: '6px',
+      },
     },
   },
   plugins: [],
